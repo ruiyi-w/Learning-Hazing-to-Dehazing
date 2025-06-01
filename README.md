@@ -1,15 +1,15 @@
-# Learning Hazing to Dehazing: Towards Realistic Haze Generation for Real-World Image Dehazing [:link:](https://arxiv.org/abs/2503.19262)
+# [CVPR 2025] Learning Hazing to Dehazing: Towards Realistic Haze Generation for Real-World Image Dehazing [:link:](https://arxiv.org/abs/2503.19262)
 
 ![Python 3.10](https://img.shields.io/badge/python-3.10-g) ![pytorch 2.2.2](https://img.shields.io/badge/pytorch-2.2.2-blue.svg)
 
 This repository presents the implementation of the paper
 
->**Learning Hazing to Dehazing: Towards Realistic Haze Generation for Real-World Image Dehazing**<br> Ruiyi Wang, Yushuo Zheng, Zicheng Zhang, Chunyi Li, Shuaicheng Liu, Guangtao Zhai, Xiaohong Liu<br>The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2025
+>**Learning Hazing to Dehazing: Towards Realistic Haze Generation for Real-World Image Dehazing**<br> Ruiyi Wang, Yushuo Zheng, [Zicheng Zhang](https://zzc-1998.github.io), [Chunyi Li](https://lcysyzxdxc.github.io), [Shuaicheng Liu](http://www.liushuaicheng.org), [Guangtao Zhai](https://ee.sjtu.edu.cn/en/FacultyDetail.aspx?id=24&infoid=153&flag=153), [Xiaohong Liu](https://jhc.sjtu.edu.cn/~xiaohongliu/)<br>The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2025
 
 We present a novel hazing-dehazing pipeline consisting of a Realistic Hazy Image Generation framework (HazeGen) and a Diffusion-based Dehazing framework (DiffDehaze).
 
-![teaser](assets/teaser.png)
-![teaser](assets/result.png)
+![teaser](assets/teaser.jpg)
+![teaser](assets/result.jpg)
 
 ## 🛠️ Setup
 
